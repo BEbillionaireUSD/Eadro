@@ -70,8 +70,7 @@ Our data are at https://doi.org/10.5281/zenodo.7615393.
 
 ## UI
 The final visualized page should be like:
-![interface](https://user-images.githubusercontent.com/49298462/217257507-ec105485-3e97-4b30-b77b-ea0f49ee8d60.jpeg)
-
+<img width="1919" alt="截屏2023-02-07 下午9 28 22" src="https://user-images.githubusercontent.com/49298462/217257747-e53afafe-ea3f-4024-8760-34d0963a863d.png">
 
 ## Concact us
 🍺 Feel free to leave messages in "Issues"! 
