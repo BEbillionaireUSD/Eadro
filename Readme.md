@@ -14,6 +14,9 @@ Our data are at https://doi.org/10.5281/zenodo.7615393.
 ## Dependencies
 `pip install -r requirements.txt`
 
+## Run
+`cd codes & python main.py --data <dataset>`
+
 
 ## Architecture
 ![Eadro](https://user-images.githubusercontent.com/49298462/217256928-f0d61857-678b-4456-a024-359326a2c45d.png)
