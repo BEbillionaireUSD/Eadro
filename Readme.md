@@ -31,39 +31,6 @@ Our data are at https://doi.org/10.5281/zenodo.7615393.
 │   │   ├── single_process.py                           handle each data source individually
 │   │   └── util.py
 │   └── utils.py
-├── data_demo                                           a small amount of data used in this paper
-│   ├── TT.2022-04-19T001753D2022-04-19T020534
-│   │   ├── logs.json
-│   │   ├── metrics
-│   │   │   ├── ts-assurance-service.csv
-│   │   │   ├── ts-auth-service.csv
-│   │   │   ├── ts-basic-service.csv
-│   │   │   ├── ts-cancel-service.csv
-│   │   │   ├── ts-config-service.csv
-│   │   │   ├── ts-contacts-service.csv
-│   │   │   ├── ts-food-map-service.csv
-│   │   │   ├── ts-food-service.csv
-│   │   │   ├── ts-inside-payment-service.csv
-│   │   │   ├── ts-notification-service.csv
-│   │   │   ├── ts-order-other-service.csv
-│   │   │   ├── ts-order-service.csv
-│   │   │   ├── ts-payment-service.csv
-│   │   │   ├── ts-preserve-service.csv
-│   │   │   ├── ts-price-service.csv
-│   │   │   ├── ts-route-plan-service.csv
-│   │   │   ├── ts-route-service.csv
-│   │   │   ├── ts-seat-service.csv
-│   │   │   ├── ts-security-service.csv
-│   │   │   ├── ts-station-service.csv
-│   │   │   ├── ts-ticketinfo-service.csv
-│   │   │   ├── ts-train-service.csv
-│   │   │   ├── ts-travel-plan-service.csv
-│   │   │   ├── ts-travel-service.csv
-│   │   │   ├── ts-travel2-service.csv
-│   │   │   ├── ts-user-service.csv
-│   │   │   └── ts-verification-code-service.csv
-│   │   └── spans.json.zip
-│   └── TT.fault-2022-04-19T001753D2022-04-19T020534.json
 ├── requirements.txt
 └── structure.txt
 ```
