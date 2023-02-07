@@ -14,8 +14,9 @@ Our data are at https://doi.org/10.5281/zenodo.7615393.
 ## Dependencies
 `pip install -r requirements.txt`
 
+
 ## Architecture
-![Eadro_00](https://user-images.githubusercontent.com/112700133/191034412-a6999252-b37a-4302-86ca-b1c020d04319.png)
+![Eadro](https://user-images.githubusercontent.com/49298462/217256928-f0d61857-678b-4456-a024-359326a2c45d.png)
 
 ## Folder Structure
 ```
@@ -69,7 +70,8 @@ Our data are at https://doi.org/10.5281/zenodo.7615393.
 
 ## UI
 The final visualized page should be like:
-![interface_00](https://user-images.githubusercontent.com/112700133/191035850-efc5b72b-47cd-47ff-ac23-e065a8af7857.png)
+![interface](https://user-images.githubusercontent.com/49298462/217257507-ec105485-3e97-4b30-b77b-ea0f49ee8d60.jpeg)
+
 
 ## Concact us
 🍺 Feel free to leave messages in "Issues"! 
